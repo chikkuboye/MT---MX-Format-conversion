@@ -35,7 +35,7 @@ def openFile():
     for i in main_list:
         if i == 'FOOAESMMXXX':
             main_list.remove(i)
-    print(main_list)
+    # print(main_list)
     line1 = main_list[0]
     line2 = main_list[1][1:]
         # line3 = main_list[2][1:]
