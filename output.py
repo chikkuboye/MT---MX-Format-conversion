@@ -46,7 +46,7 @@ def openFile():
     line8 = main_list[7]
 
     line3w = main_list[2][1:]
-    num = line3w[3:]
+    num = line3w[3:9]
 
     data = ET.Element('Document')
 
